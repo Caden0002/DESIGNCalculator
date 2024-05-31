@@ -20,13 +20,13 @@ module.exports = {
 
       colors: {
         // Define your color variables here
-        // textColorPrimary: '#351410',
-        // textColorSecondary: '#bb7746',
-        // textColorTertiary:  '#483E37',
-        // backgroundColorPrimary: '#f6dfbf',
-        // backgroundColorSecondary: '#D9D1BB',
-        // backgroundColorTertiary: '#351410',
-        // backgroundColorQuaternary: '#F6F6EB',
+        textColorPrimary: '#351410',
+        textColorSecondary: '#bb7746',
+        textColorTertiary:  '#483E37',
+        backgroundColorPrimary: '#f6dfbf',
+        backgroundColorSecondary: '#D9D1BB',
+        backgroundColorTertiary: '#351410',
+        backgroundColorQuaternary: '#F6F6EB',
       },
 
     },
