@@ -29,10 +29,10 @@ function InteractiveHero(props) {
     }, []);
 
     return (
-        <div className={`relative min-h-screen flex ${background}`}>
-            <div className="container max-w-screen-xl mx-auto flex justify-center items-center text-4xl">
+        <div className={`relative h-screen flex ${background}`}>
+            <div className="mx-auto flex justify-center items-center text-4xl">
                 <Rive 
-                    src="interactiveface.riv"
+                    src="interactiveface2.riv"
                     stateMachines="State Machine 1"
                     inputs={{
                         isTracking: isTracking
